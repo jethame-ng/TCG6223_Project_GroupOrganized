@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1775559082 source:c:\users\scsm11\desktop\term2610\tcg6223-computer_graphics\project\tcg_project\tcg_project_main.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<GL/glut.h>
+	"TCG_Project_main.hpp"
+	"TCG_Project_world.hpp"
+
+1775456965 c:\users\scsm11\desktop\term2610\tcg6223-computer_graphics\project\tcg_project\tcg_project.hpp
+	<GL/glut.h>
+	<cmath>
+
+1776149779 source:c:\users\scsm11\desktop\term2610\tcg6223-computer_graphics\project\tcg_project\tcg_project_world.cpp
+	<GL/glut.h>
+	"TCG_Project_World.hpp"
+
+1776150875 c:\users\scsm11\desktop\term2610\tcg6223-computer_graphics\project\tcg_project\tcg_project_world.hpp
+	"TCG_Project_main.hpp"
+
+1775551248 c:\users\scsm11\desktop\term2610\tcg6223-computer_graphics\project\tcg_project\tcg_project_main.hpp
+	<string>
+	<cmath>
+	<iostream>
+	<GL/glut.h>
+
+1775557960 source:c:\users\scsm11\desktop\term2610\tcg6223-computer_graphics\project\tcg_project\utils\tcg_project_imageloader.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/glut.h>
+	<iostream>
+	"TCG_Project_ImageLoader.hpp"
+
+1775557488 c:\users\scsm11\desktop\term2610\tcg6223-computer_graphics\project\tcg_project\utils\tcg_project_imageloader.hpp
+	<string>
+	"jpeglib.h"
+	<setjmp.h>
+
+1775557488 c:\users\scsm11\desktop\term2610\tcg6223-computer_graphics\project\tcg_project\utils\jpeglib.h
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1775557488 c:\users\scsm11\desktop\term2610\tcg6223-computer_graphics\project\tcg_project\utils\jconfig.h
+	<windows.h>
+
+1775557488 c:\users\scsm11\desktop\term2610\tcg6223-computer_graphics\project\tcg_project\utils\jmorecfg.h
+
